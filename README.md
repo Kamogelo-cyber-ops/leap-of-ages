@@ -30,7 +30,8 @@
 
 Here are some in-game screenshots of **Leap of Ages**:
 
-![Screenshot 1](screenshots/Screenshot%202025-05-25%20172502.png)
+![Screenshot 1]![Screenshot 2025-05-25 172502](https://github.com/user-attachments/assets/ce7344ce-006a-452a-912f-b61bd4037f26)
+
 ![Screenshot 2](screenshots/Screenshot%202025-05-25%20172604.png)
 ![Screenshot 3](screenshots/Screenshot%202025-05-25%20172837.png)
 
