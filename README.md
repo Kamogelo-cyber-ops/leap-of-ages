@@ -26,7 +26,7 @@
     ```
 2. Open the project in Godot using the `project.godot` file inside the `rex/` directory.
 
-## 🖼️ Screenshots
+##  🖼️ Screenshots
 
 Here are some in-game screenshots of **Leap of Ages**:
 
