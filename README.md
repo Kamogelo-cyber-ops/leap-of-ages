@@ -67,9 +67,9 @@ leap-of-ages/
 
 ## 👨‍💻 Developer Credits
 
-- [Thato Mabena]
-- [Thabang Mosia]
 - [Kamogelo Komane]
+- [Thabang Mosia]
+- [Thato Mabena]
 - [Nathan Tabakwa]
 
 ---
