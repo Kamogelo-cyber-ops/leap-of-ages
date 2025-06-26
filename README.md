@@ -34,4 +34,50 @@ Here are some in-game screenshots of **Leap of Ages**:
 ![Screenshot 2]![Screenshot 2025-05-25 172604](https://github.com/user-attachments/assets/8cca5ae1-f9f8-4521-a2d1-8ae75b3c33e4)
 ![Screenshot 3]![Screenshot 2025-05-25 172837](https://github.com/user-attachments/assets/7354127d-ba20-49f5-b5c8-7e1212079e71)
 
+## 🧠 Gameplay Overview
+
+In **Leap of Ages**, players control a dinosaur-like creature that must leap over various obstacles such as barrels, rocks, and tree stumps. The goal is to survive as long as possible while the game gradually increases in speed and difficulty.
+
+**Core Mechanics:**
+- **Jumping** over obstacles to avoid collision
+- **Scrolling environment** that accelerates
+- **Game Over screen** upon collision
+- **Opening Scene** that introduces the game world
+
+## 📁 Project Structure
+
+```
+leap-of-ages/
+│
+├── README.md
+├── screenshots/
+│   ├── Screenshot 2025-05-25 172502.png
+│   ├── Screenshot 2025-05-25 172604.png
+│   └── Screenshot 2025-05-25 172837.png
+├── rex/
+│   └── project.godot
+└── (other folders and files)
+```
+- **README.md**: This file.
+- **screenshots/**: Contains in-game screenshot images.
+- **rex/**: Main Godot project directory (open `project.godot` here).
+- **(other folders/files)**: Source code, scripts, assets, etc.
+
+---
+
+## 👨‍💻 Developer Credits
+
+- [Thato Mabena]
+- [Thabang Mosia]
+- [Kamogelo Komane]
+- [Nathan Tabakwa]
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
+
+---
+
 
